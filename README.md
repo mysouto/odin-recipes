@@ -10,6 +10,6 @@ The end result should be a basic website that has a main index page and links to
 <ul>
   <li>Create repository on Github</li>
   <li>Basic git workflow</li>
-  <li>Creating and linking HTML files</li>
-  <li>Working HTML boilerplate, text, links and images> 
+  <li>Create and link HTML files</li>
+  <li>Work with HTML basic structure, text, links and images> 
 </ul>
