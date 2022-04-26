@@ -1,0 +1,30 @@
+* {
+    font-family: 'Poppins', Sans-Serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    color: #79c698;;
+}
+
+h2, h3, h4 {
+    font-size: 16px;    
+}
+
+img {
+    height: auto;
+    width: 250px;
+    border-radius: 5%;
+}
+
+.text {
+    font-size: 12px;
+}
+
+a:hover {
+    color: #79c698;
+}
