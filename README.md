@@ -1,7 +1,7 @@
 # odin-recipes
 A basic recipe website 
 ### Goal
-Practice using git and github, and writing basic HTML.
+Practice using git and github, and writing basic HTML and CSS
 ### Skills
 Skills demonstrated:
 - Create repos on Github
