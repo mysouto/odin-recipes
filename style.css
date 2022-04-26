@@ -1,0 +1,39 @@
+h1 {
+    color: #79C698;
+    font-Family: 'Abril Fatface', Cursive;
+    font-Size: 48px;
+    text-align: center;
+}
+
+a {
+    color: lightcoral;
+    display: block;
+    font-Family: 'Poppins', Sans-Serif;
+    font-Size: 14px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover {
+    color:lightblue;
+}
+
+.food-photos img {
+    height: 250px;
+    width: 250px;
+    border-radius: 10%;
+}
+
+.recipes {
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+}
+
+/* font code
+Font-Family: 'Abril Fatface', Cursive;
+Font-Size: 48px;
+Font-Family: 'Poppins', Sans-Serif;
+Font-Size: 14px;
+*/
