@@ -3,15 +3,26 @@ h1 {
     font-family: 'Abril Fatface', Cursive;
     font-size: 48px;
     text-align: center;
+    margin-bottom: 50px;
 }
 
 a {
     color: lightcoral;
     display: block;
     font-family: 'Poppins', Sans-Serif;
-    font-size: 14px;
+    font-size: 18px;
     text-align: center;
     text-decoration: none;
+}
+
+.recipes-section {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.recipe {
+    max-width: 400px;
 }
 
 a:hover {
@@ -19,14 +30,8 @@ a:hover {
 }
 
 img {
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
     border-radius: 10%;
-}
-
-div .recipe {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 30px;
 }
